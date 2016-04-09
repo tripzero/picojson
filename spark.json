@@ -1,0 +1,7 @@
+{
+  "name": "picojson",
+  "author": "Kazuho Oku",
+  "license": "2-clause BSD license",
+  "version": "1.2.2",
+  "description": "PicoJSON - a C++ JSON parser / serializer"
+}
